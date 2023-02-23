@@ -3,5 +3,22 @@ background-color: rgb(198, 80, 244);
 }
 h2{text-align: center;}
  body{
- background-color: #85ff95;
+ background-color: #9b12cd;
+ -webkit-text-fill-color: aliceblue;
 }
+a:link {
+    color: green;
+    text-decoration: none;
+    }
+a:visited {
+    color: rgb(255, 161, 90);
+    text-decoration: none;
+    }
+a:hover {
+    color: rgb(81, 255, 0);
+    text-decoration: none;
+    }
+a:active {
+    color: rgb(0, 251, 255);
+    text-decoration: none;
+    }
