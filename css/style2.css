@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+}
+figure{ 
+text-align:right ;
+}
+img{
+
+    border-radius: 50%;
+}
+body{
+    background-color: #9b12cd;
+    -webkit-text-fill-color: aliceblue;
+   }
